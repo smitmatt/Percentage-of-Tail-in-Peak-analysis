@@ -1,6 +1,6 @@
 # Percentage-of-Tail-in-Peak-analysis
 
-This is an aditional version of the code tat will plot the tail percentage versus turn number
+This is an aditional version of the code that will plot the tail percentage versus turn number
 
 Description:
 Determine the percentage of a peak that exists within its left and right tails. 
